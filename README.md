@@ -39,6 +39,7 @@ Consumption trend is visualized.
 ## How to Run
 Install required libraries:
 pip install pandas numpy matplotlib scikit-learn joblib
+
 Run the Python file:
 python electricity_bill_prediction.py
 Enter the required values when prompted.
