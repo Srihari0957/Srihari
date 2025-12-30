@@ -17,6 +17,7 @@ Additional derived features:
 ## Algorithm Used
 1.Linear Regression
 2.Random Forest Regressor
+
 The model with the lowest Mean Absolute Error (MAE) is selected automatically.
 ## Technologies Used
 1.Python
