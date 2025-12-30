@@ -6,11 +6,13 @@ Estimation is based on usage trends and environmental conditions.
 This project automates electricity bill prediction using machine learning models.
 ## Dataset
 The dataset is created directly inside the Python code.
+
 It includes the following features:
 1.Month
 2.Units Used
 3.Temperature
 4.Electricity Bill
+
 Additional derived features:
 1.Average Units (last 3 months)
 2.Season indicator (Summer / Non-summer)
