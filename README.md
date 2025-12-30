@@ -7,24 +7,24 @@ This project automates electricity bill prediction using machine learning models
 ## Dataset
 The dataset is created directly inside the Python code.
 It includes the following features:
-Month
-Units Used
-Temperature
-Electricity Bill
+1.Month
+2.Units Used
+3.Temperature
+4.Electricity Bill
 Additional derived features:
-Average Units (last 3 months)
-Season indicator (Summer / Non-summer)
+1.Average Units (last 3 months)
+2.Season indicator (Summer / Non-summer)
 ## Algorithm Used
-Linear Regression
-Random Forest Regressor
+1.Linear Regression
+2.Random Forest Regressor
 The model with the lowest Mean Absolute Error (MAE) is selected automatically.
 ## Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Joblib
+1.Python
+2.Pandas
+3.NumPy
+4.Matplotlib
+5.Scikit-learn
+6.Joblib
 ## How the Project Works
 Data is loaded into a Pandas DataFrame.
 Feature engineering is performed.
@@ -47,4 +47,3 @@ Enter the required values when prompted.
 ## Conclusion
 This project demonstrates a complete end-to-end machine learning workflow.
 It effectively predicts electricity bills and analyzes energy consumption patterns.
-The system is suitable for college mini-projects and ML demonstrations.
